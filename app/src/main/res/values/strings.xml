@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BeeApp_pro</string>
+    <string name="t">Registro</string>
+    <string name="t1">Nombre</string>
+    <string name="t2">Correo</string>
+    <string name="t3">Telefono</string>
+    <string name="t4">Contraseña</string>
+    <string name="t5">Confirmar contraseña</string>
+    <string name="t6">Registrarme</string>
+    <string name="t7">Bienvenido</string>
+    <string name="t8">Iniciar sesion</string>
+    <string name="t9">Olvidaste tu contraseña</string>
+    <string name="Beeapp">BeeAPP</string>
+    <string name="bee">BEE</string>
+    <string name="app">APP</string>
+</resources>
